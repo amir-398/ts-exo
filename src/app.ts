@@ -13,6 +13,8 @@ import { formes as formesS4Ep3 } from "./s4/ep3/formes";
 import { tuples as tuplesS5 } from "./s5/ep1/tuples";
 import { enums as enumsS5Ep2 } from "./s5/ep2/enums";
 import { enums as enumsS5Ep3 } from "./s5/ep3/enums";
+import { testModule as testModuleS6Ep1 } from "./s6/ep1/testModule";
+
 personneS1Ep1();
 personneS1Ep2();
 personneProS1Ep3();
@@ -28,3 +30,4 @@ formesS4Ep3();
 tuplesS5();
 enumsS5Ep2();
 enumsS5Ep3();
+testModuleS6Ep1();
