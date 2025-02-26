@@ -31,8 +31,8 @@ function afficherInfoProfessionnelle(personnePro: PersonnePro) {
 }
 
 export function personnePro() {
-  const employe = { nom: "John", poste: "Développeur" };
-  const client = { nom: "Jane", entreprise: "Google" };
+  const employe: Employe = { nom: "John", poste: "Développeur" };
+  const client: Client = { nom: "Jane", entreprise: "Google" };
   console.log("S01 EP3===============================");
   afficherInfoProfessionnelle(employe);
   afficherInfoProfessionnelle(client);

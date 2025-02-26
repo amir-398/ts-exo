@@ -30,14 +30,14 @@ function afficherPersonneAvancee(personne: Personne) {
 }
 
 export function personne() {
-  const personne2 = {
+  const personne2: Personne = {
     id: 1,
     nom: "Amir",
     age: 27,
     adresse: { rue: "123 Rue de la Paix", ville: "Paris" },
   };
 
-  const personne3 = {
+  const personne3: Personne = {
     id: 2,
     nom: "John",
     age: 30,

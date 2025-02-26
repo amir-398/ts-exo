@@ -13,6 +13,6 @@ function afficherPersonne(personne: Personne) {
 }
 
 export function personne() {
-  const personne1 = { nom: "Amir", age: 27 };
+  const personne1: Personne = { nom: "Amir", age: 27 };
   afficherPersonne(personne1);
 }

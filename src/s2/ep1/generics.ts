@@ -1,5 +1,3 @@
-// Écrivez une fonction générique premierElement<T>(tableau: T[]): T qui retourne le premier élément du tableau passé en paramètre.
-
 function premierElement<T>(tableau: T[]): T {
   return tableau[0];
 }
