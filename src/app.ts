@@ -10,7 +10,7 @@ import { vehicule as vehiculeS3Ep3 } from "./s3/ep3/vehicule";
 import { animaux as animauxS4Ep1 } from "./s4/ep1/animaux";
 import { animaux as animauxS4Ep2 } from "./s4/ep2/animaux";
 import { formes as formesS4Ep3 } from "./s4/ep3/formes";
-import { tuples as tuplesS5 } from "./s5/tuples";
+import { tuples as tuplesS5 } from "./s5/ep1/tuples";
 personneS1Ep1();
 personneS1Ep2();
 personneProS1Ep3();
