@@ -43,6 +43,9 @@ export function personne() {
     age: 30,
   };
 
+  console.log("S01 EP2===============================");
   afficherPersonneAvancee(personne2);
   afficherPersonneAvancee(personne3);
+  console.log("===============================");
+  console.log();
 }
