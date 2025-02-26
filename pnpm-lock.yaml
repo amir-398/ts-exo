@@ -7,6 +7,10 @@ settings:
 importers:
 
   .:
+    dependencies:
+      mon-module:
+        specifier: link:src/s6/mon-module
+        version: link:src/s6/mon-module
     devDependencies:
       '@types/node':
         specifier: ^22.13.5
