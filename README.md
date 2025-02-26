@@ -6,7 +6,7 @@ Une piscine en **6 saisons** pour apprendre **TypeScript** de manière progressi
 
 ### Cloner le dépôt  
 ```sh
-git clone https://github.com/ton-user/TypeScript-Pool.git](https://github.com/amir-398/ts-exo.git
+git clone https://github.com/amir-398/ts-exo.git
 cd ts-exo
 ```
 
